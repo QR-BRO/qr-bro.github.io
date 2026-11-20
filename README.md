@@ -4,6 +4,28 @@
 
 The website provides a user guide in every supported language. Choose your language in the guide, or select it in the app and open User guide from the footer or the question mark beside a tool. [Browse the guides](https://qr-bro.github.io/guide/)
 
+### HOW TO USE FROM SCRATCH
+
+1. Open Contact links to create a link, or copy the text you want your QR code to contain.
+
+   ![](https://qr-bro.github.io/guide/images/start-1.png)
+
+2. Open the generator and paste your link or text into the QR content field.
+
+   ![](https://qr-bro.github.io/guide/images/start-2.png)
+
+3. Try different margins, colors and shapes until you like the code in the preview.
+
+   ![](https://qr-bro.github.io/guide/images/start-3.png)
+
+4. Click the large Download PNG button below the preview to save your QR code as an image.
+
+   ![](https://qr-bro.github.io/guide/images/start-4.png)
+
+There are plenty more options I haven’t taken screenshots of or uploaded, but you get the idea.  
+Nobody’s paying me for this, and my dog’s been waiting an hour for a walk.  
+One day I’ll get around to the rest.
+
 ### Generator
 
 Enter a URL or text. The preview updates as you edit. Download a PNG for a single image or a ZIP for separate QR layers.
