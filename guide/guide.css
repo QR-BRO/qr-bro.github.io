@@ -2,7 +2,9 @@ html{color-scheme:light dark;scroll-padding-block:1rem}body{margin:0;background:
 
 #from-scratch img{width:auto;max-width:100%;height:auto}#from-scratch li{margin-block:1.5rem}
 
-.guide-brand { display: block; width: 128px; }
+.guide-brand { display: grid; gap: .45rem; width: 128px; }
+.guide-brand img { border-radius: 0; }
+@media (prefers-color-scheme: dark) { .guide-mascot { filter: drop-shadow(0 0 1px white); } .guide-wordmark { filter: invert(1); } }
 .workflow-link {
   display: inline-flex;
   align-items: center;
