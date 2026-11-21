@@ -4,7 +4,7 @@
 
 The website provides a user guide in every supported language. Choose your language in the guide, or select it in the app and open User guide from the footer or the question mark beside a tool. [Browse the guides](https://qr-bro.github.io/guide/)
 
-### HOW TO USE FROM SCRATCH
+### Recommended workflow
 
 1. Open Contact links to create a link, or copy the text you want your QR code to contain.
 
