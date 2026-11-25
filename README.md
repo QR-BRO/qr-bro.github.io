@@ -35,7 +35,8 @@ Enter a URL or text. The preview updates as you edit. Download a PNG for a singl
 ![Generator](https://qr-bro.github.io/guide/images/generator-en.jpg)
 
 - **QR content** — Paste the complete text you want a scanner to read.
-- **Encoding** — Choose error correction and a mask pattern. Higher correction leaves more room to recover damaged data but can increase density.
+- **Encoding** — Choose a mask pattern to change how the light and dark squares are arranged.
+- **Error correction** — At level L, the same text can fit in a grid with fewer squares, giving the code a simpler look that many people find easier on the eye. Higher levels (M, Q, H) let a scanner recover more data if the code is damaged, but may need a denser grid.
 - **Margins** — Set the quiet border in modules. Four clear modules help scanners locate the code. Noise, safe space and layer controls change the surrounding design.
 - **Pixels & markers** — Choose module shapes and style the corner markers separately. Scan the result after a shape change.
 - **Colors** — Choose the light and dark colors or invert them. Keep enough contrast for scanning.
